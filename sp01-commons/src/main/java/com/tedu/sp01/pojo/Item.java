@@ -8,8 +8,13 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
+<<<<<<< HEAD
 	//ţ��
 	//hahaha
+=======
+	//Å£±Æ
+	//哈喽
+>>>>>>> branch 'master' of https://github.com/liu1210750294/SpringCloud.git
 	private Integer id;
 	private String name;
 	private Integer number;
